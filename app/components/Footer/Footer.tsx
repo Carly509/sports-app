@@ -41,9 +41,6 @@ const Footer = () => {
             contacts
           </p>
           <p className="text-[15px] w-fit text-white hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] uppercase">
-            price table
-          </p>
-          <p className="text-[15px] w-fit text-white hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] uppercase">
             shop
           </p>
           <p className="text-[15px] w-fit text-white hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] uppercase">
@@ -60,9 +57,6 @@ const Footer = () => {
           </p>
           <p className="text-[15px] w-fit text-white hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] uppercase">
             contacts
-          </p>
-          <p className="text-[15px] w-fit text-white hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] uppercase">
-            price table
           </p>
           <p className="text-[15px] w-fit text-white hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] uppercase">
             shop
